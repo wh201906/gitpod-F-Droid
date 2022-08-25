@@ -1,1 +1,1 @@
-FROM registry.gitlab.com/fdroid/fdroidserver
+FROM registry.gitlab.com/fdroid/fdroidserver:buildserver
