@@ -1,1 +1,1 @@
-FROM registry.gitlab.com/fdroid/fdroidserver:buildserver
+FROM registry.gitlab.com/fdroid/docker-executable-fdroidserver:master
